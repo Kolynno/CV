@@ -18,6 +18,7 @@
 Стек:
 - Java
 - Maven & Gradle
+- VK API
 - JavaFX
 - JUnit
 - Spring boot (web)
